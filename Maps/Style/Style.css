@@ -1,0 +1,47 @@
+﻿
+#map {
+    height: 47rem;
+    width: 100%;
+}
+
+.jss {
+    width: 240px;
+    position: relative;
+    overflow-y: initial;
+    white-space: nowrap;
+}
+
+#logo {
+    width: 175px;
+}
+.nav-item{
+   text-align:center;
+   width:25%;
+   height:100%;
+}
+/*ul li.checked {
+    background: #888;
+    color: #fff;
+    text-decoration: line-through;
+}
+.close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 16px 26px 16px 26px;
+}*/
+li{
+    list-style-type:none;
+}
+.btn-danger{
+    float:right;
+}
+.btn-success {
+    float: right;
+}
+textarea {
+    resize: none;
+}
+.TitleList{
+        font-weight:bold;
+}
